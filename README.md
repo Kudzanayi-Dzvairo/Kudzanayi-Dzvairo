@@ -1,5 +1,7 @@
 # Hi, I'm Kudzanayi 👋🏾 
 
+<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" />
+
 I'm a self-taught software engineer who interested in creating technology to elevate people, and build communities. I'm a big fan of vanilla JS but I also enjoy working in ReactJS. When I'm not creating through projects I enjoy challenging myself with algorithms. And when I'm not on a computer I'm probably strumming my guitar 🎸
 
 
