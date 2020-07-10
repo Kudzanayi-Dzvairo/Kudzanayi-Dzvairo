@@ -4,7 +4,7 @@
 
 I'm a self-taught software engineer interested in creating technology that elevates and connects people. I'm a big fan of vanilla JS but I also enjoy working in ReactJS. I am constantly building things to get better and when I'm not doing that I enjoy challenging myself with algorithms. 
 
-I like JS strings but I love guitar strings 🎸
+Its close but, JS strings < guitar strings 🎸
 
 
 ## Find me around the web 🌎:
